@@ -42,7 +42,7 @@ $idx = 0
 $rand = New-Object System.Random
 
 Write-Host "Logic: 25.xml Timing Ported" -ForegroundColor Cyan
-Write-Host "Mouse 4 -> RIGHT CLICK | Mouse 5 -> LEFT CLICK" -ForegroundColor Green
+Write-Host "Mouse 4 -> LEFT CLICK | Mouse 5 -> RIGHT CLICK" -ForegroundColor Green
 Write-Host "Press F12 to Exit" -ForegroundColor Yellow
 
 while ($true) {
